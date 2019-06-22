@@ -8,6 +8,7 @@
 	<ol>
 		<li>1. Create file on repository</li>
 		<li>2. First Commit</li>
+		<li>3. Create new branch</li>
 	</ol>		
 </body>
 </html>
