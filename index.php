@@ -7,6 +7,7 @@
 <body>
 	<ol>
 		<li>1. Create file on repository</li>
+		<li>2. First Commit</li>
 	</ol>		
 </body>
 </html>
